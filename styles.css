@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  
+}
+
+h1 {
+  font-size: 3.5em;
+  font-weight: lighter;
+}
+
+h2 {
+  font-size: 2.5em;
+  font-weight: lighter;
+}
+
+p {
+  font-size: 1.2em;
+
+}
+
+.heart {
+  padding-right: 20px;
+
+}
+
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 10px;
+  padding-left: 15px;
+  height: 40px;
+  position: relative;
+  
+}
+
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+  
+}
+
+header {
+  background-image: url('https://svgshare.com/i/9yG.svg');
+  height: 800px;
+  padding-top: 10px;
+  padding-left: 15px;
+  position: relative;
+
+}
+
+input[type=text] {
+  background-color: #365670;
+  float: left;
+  padding: 5px 5px 5px 5px;
+  min-width: 75%;
+  border-style: none;
+  box-shadow: 0px 0px 1px grey;
+  height: 30px;
+  font-size: 1em;
+  
+}
+
+button[type=submit] {
+  
+  background-color: #365670;
+  float: left;
+  margin-left: 1px;
+  border-style: none;
+  box-shadow: 0px 0px 1px grey;
+  width: 2.5%;
+  padding: 13px;
+  
+  
+}
+
+.top-left {
+  display: inline-block;
+  font-size: 20px;
+  line-height: 0.5;
+  float: left;
+  padding: 0;
+  margin: 10px 20px 0 0;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+  font-size: 20px;
+  
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+#npm img {
+  height: 40px;
+  float: left;
+  padding-right: 15px;
+}
+
+.sign-up {
+  position: relative;
+  color: rgba(255,255,255,0.8);
+  float: right;
+  margin-right: 20px;
+  padding-top: 8px;
+  
+}
+.sign-up a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+#bear img {
+  width: 60px;
+}
+
+#bear {
+  float: right;
+  margin-right: 10px;
+  position: relative;
+  bottom: 10px;
+}
+
+.clearfix {
+  clear: both;
+  
+}
+
+.sign-up-npm {
+  width: 590px;
+  padding-left: 350px;
+  padding-top: 120px;
+  color: white;
+  
+}
+
+#build-case {
+  height: 70px ;
+  
+} 
+
+.radius a {
+  Border: 2px solid #FFA03F;
+  background-color: #FFA03F;
+  border-radius: 30px;
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+  Padding: 8px 20px 8px 20px;
+}
+.radius {
+  padding-top: 20px;
+}
+
+section {
+  background-color: #2F3C4F;
+}
+
+#colaboration {
+  width: 650px;
+  padding-left: 380px;
+  padding-top: 10px;
+  position: relative;
+  top: 200px
+
+}
+
+.npm-orgs {
+  float: right;
+  width: 600px;
+  color: white;
+  position: relative;
+  bottom: 200px;
+  right: 100px;
+  
+}
+.other-radius a {
+  Border: 2px solid #C33F30;
+  background-color: #C33F30;
+  border-radius: 30px;
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+  Padding: 8px 20px 8px 20px;
+}
+.other-radius {
+  padding-top: 20px;
+}
+
+.orgs a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.forklift {
+  background-image: url('https://svgshare.com/i/A0M.svg');
+  height: 800px;
+  padding-top: 10px;
+  padding-left: 15px;
+  position: relative;
+}
+
+.winpm {
+  width: 420px;
+  padding-left: 350px;
+  padding-top: 190px;
+  color: white;
+}
+
+.button-style {
+  Border: 2px solid #2F3C4F;
+  background-color: #2F3C4F;
+  border-radius: 30px;
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+  Padding: 8px 20px 8px 20px;
+  font-size: 17px;
+}
+
+.win-install {
+  padding-top: 20px;
+}
+
+.find-build {
+  text-align: center;
+  
+}
+
+.find {
+  text-align: center;
+  float: left;
+  width: 320px;
+  margin-left: 380px;
+  padding-top: 20px;
+}
+
+.discover {
+  text-align: center;
+  float: left;
+  width: 320px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+.build {
+  text-align: center;
+  float: left;
+  width: 320px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+.font-color a {
+   text-decoration: none;
+   color: red;
+}
